@@ -27,3 +27,4 @@ if __name__ == '__main__':
     print (s.a, t.a)
     print (s.val, t.val)
     print ('test')
+    print ("git test")
