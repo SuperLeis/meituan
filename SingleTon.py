@@ -1,5 +1,6 @@
 from functools import wraps
-
+# created by PL
+# git hello world
 
 def single_ton(cls):
     _instance = {}
@@ -25,3 +26,4 @@ if __name__ == '__main__':
     print (s is t)
     print (s.a, t.a)
     print (s.val, t.val)
+    print ('test')
